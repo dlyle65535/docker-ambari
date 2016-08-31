@@ -1,4 +1,4 @@
-FROM hortonworks/ambari-base:7.2-v7
+FROM dlyle65535/ambari-base:2.4.0.0-1130-jdk8
 MAINTAINER Hortonworks
 
 # add ambari repo
